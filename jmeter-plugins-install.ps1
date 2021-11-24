@@ -31,3 +31,5 @@ java -jar ".\lib\cmdrunner-2.2.jar" --tool org.jmeterplugins.repository.PluginMa
 jpgc-csl=0.1
 
 Write-Output "Plugin installation complete."
+
+docker run qainsights/windows-docker-jmeter
